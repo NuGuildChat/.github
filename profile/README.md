@@ -18,4 +18,6 @@ _The client is not necessary to install. Instead, you can enter in the IP of the
 2. Download the latest release from [here](https://github.com/NuGuildChat/NuGuildChatBackend/releases).
 3. _todo: explain configuration_
 
+## Implementation
+
 The backend of the project is written in Java with Dropwizard as the API framework. It current supports MariaDB for the database, but may support more in the future. The frontend is written in JavaScript with React as the framework.
