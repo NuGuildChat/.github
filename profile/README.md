@@ -1,8 +1,8 @@
 # NuGuild Chat
 
-The goal of this project is to provide a simple yet effect approach to text and voice chat. Rather than catgorizing channels into guilds, the structure is inverted using tags. Each channel is created and adminstrated by one user. Channel categories do exist, but only for the sake of mass tagging and created mass invites to private channels. For voice chat, such functionality is side-car'd to each channel.
+The goal of this project is to provide a simple yet effect approach to text and voice chat. Rather than catgorizing channels into guilds, the structure is inverted using tags. Each channel is created and adminstrated by one user. Channel categories do exist, but only for the sake of mass tagging and created mass invites to private channels. For voice chat,such functionality exists with each channel automatically, using a sidecar pattern of sorts.
 
-The backend of the project is written in Java with Dropwizard as the API framework. The frontend is written in JavaScript with React as the framework.
+The backend of the project is written in Java with Dropwizard as the API framework. It current supports MariaDB for the database, but may support more in the future. The frontend is written in JavaScript with React as the framework.
 
 ## Setup
 ### Client
