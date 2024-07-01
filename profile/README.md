@@ -1,6 +1,6 @@
 # <p align=center>![logo](https://avatars.githubusercontent.com/u/172641046?s=200&v=4) <br>NuGuild Chat</p>
 
-This project is an attempt to provide a simple yet effect text and voice chat service. Its main philosphy is to reduce control complexity, notably in role permissions. Ideal, it will push users to follow a [decomposition](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) approach to how they create and manage channels. The current design supports for stand-alone instances of servers.
+The NuGuildChat project is an attempt to provide a simple yet effect text and voice chat service. Its main philosphy is to reduce control complexity, notably in role permissions. Ideal, it will push users to follow a [decomposition](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) approach to how they create and manage channels. The current design supports for stand-alone instances of servers.
 
 ## Design
 
